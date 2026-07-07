@@ -1,0 +1,6 @@
+{
+  "name": "Paroki Santo Fransiskus Xaverius Dayeuhkolot",
+  "description": "Website resmi Paroki Santo Fransiskus Xaverius Dayeuhkolot Bandung - Beranda, Agenda, Dewan Pastoral, Lingkungan, Stasi, E-Formulir, Kontak, Sakramen Online, Kotak Saran, dan Panel Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

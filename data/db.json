@@ -1,0 +1,193 @@
+{
+  "announcements": [
+    {
+      "id": "ann-1",
+      "text": "Pengumuman: Pelayanan Perubahan Data Administrasi Kependudukan & Catatan Sipil diadakan pada Sabtu, 14 Maret 2026 di Gereja.",
+      "type": "info",
+      "active": true,
+      "createdAt": "2026-07-07T03:25:21.760Z"
+    }
+  ],
+  "agenda": [
+    {
+      "id": "ag-1",
+      "title": "Pelaksanaan Pelayanan Perubahan Data Administrasi Kependudukan & Catatan Sipil",
+      "content": "Paroki Santo Fransiskus Xaverius Dayeuhkolot bekerja sama dengan Dinas Kependudukan dan Pencatatan Sipil (Disdukcapil) Kabupaten Bandung akan menyelenggarakan pelayanan langsung administrasi kependudukan (KTP, KK, Akta Lahir, dll.) bagi jemaat gereja pada hari Sabtu, 14 Maret 2026 mulai pukul 09.00 WIB hingga selesai. Silakan membawa dokumen asli dan fotokopi berkas pendukung Anda ke aula gereja.",
+      "date": "2026-03-14",
+      "imageUrl": "https://images.unsplash.com/photo-1544027993-37dbfe43562a?auto=format&fit=crop&w=800&q=80",
+      "category": "pengumuman"
+    },
+    {
+      "id": "ag-2",
+      "title": "Pendaftaran Bina Iman Anak (BIA) & Bina Iman Remaja (BIR) Tahun Ajaran Baru",
+      "content": "Telah dibuka pendaftaran bagi anak-anak dan remaja Paroki Dayeuhkolot untuk bergabung dengan komunitas Bina Iman Anak (BIA) dan Bina Iman Remaja (BIR). Kegiatan pembinaan iman ini diadakan setiap hari Minggu setelah perayaan Ekaristi pagi. Orang tua diharapkan segera mendaftarkan putra-putrinya melalui e-formulir atau langsung ke koordinator BIA/BIR di pendopo gereja.",
+      "date": "2026-07-12",
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?auto=format&fit=crop&w=800&q=80",
+      "category": "agenda"
+    },
+    {
+      "id": "ag-3",
+      "title": "Kerja Bakti Sosial Lingkungan dan Kebersihan Area Kompleks Gereja",
+      "content": "Dalam rangka menyambut pesta pelindung Paroki Santo Fransiskus Xaverius, Dewan Pastoral Paroki mengundang perwakilan umat dari seluruh Lingkungan untuk berpartisipasi dalam kegiatan kerja bakti kebersihan dan penghijauan area gereja. Harap membawa peralatan kebersihan masing-masing. Kegiatan dimulai pukul 08.00 WIB.",
+      "date": "2026-07-19",
+      "imageUrl": "https://images.unsplash.com/photo-1559027615-cd4451a9962f?auto=format&fit=crop&w=800&q=80",
+      "category": "berita"
+    },
+    {
+      "id": "ag-4",
+      "title": "Katekese Pastor: Memaknai Hidup Ekaristis dalam Keluarga Katolik",
+      "content": "Saudara-saudari terkasih, hidup berkeluarga adalah altar persembahan harian kita. Di dalam rumah tangga kita belajar memecah-mecah ego kita, seperti Kristus yang memecah Tubuh-Nya bagi kita. Hidup Ekaristis berarti kita siap menjadi berkat yang dipecah dan dibagikan bagi sesama anggota keluarga kita sehari-hari, melalui kesabaran, kerendahan hati, dan pengampunan tulus.",
+      "date": "2026-07-01",
+      "imageUrl": "https://images.unsplash.com/photo-1438211317305-6a2410a644b8?auto=format&fit=crop&w=800&q=80",
+      "category": "katekese"
+    }
+  ],
+  "dpp": [
+    {
+      "id": "dpp-1",
+      "role": "Pastor / Romo Paroki",
+      "category": "pimpinan",
+      "name": "RD. Stefanus Tanto Agustiana",
+      "imageUrl": "/src/assets/images/pastor_stefanus_1783397946213.jpg"
+    },
+    {
+      "id": "dpp-2",
+      "role": "Pastor / Romo Vikaris",
+      "category": "pimpinan",
+      "name": "RD. Antonius Jonmedi Tarigan",
+      "imageUrl": "/src/assets/images/pastor_antonius_1783397963388.jpg"
+    },
+    {
+      "id": "dpp-3",
+      "role": "WAKIL KETUA DPP 1",
+      "category": "wakil",
+      "name": "Drs. Ignasius Budi Prasetyo",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-4",
+      "role": "WAKIL KETUA DPP 2",
+      "category": "wakil",
+      "name": "Maria Clara Sutjiati",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-5",
+      "role": "SEKRETARIS 1",
+      "category": "sekretaris",
+      "name": "Yohanes Herryanto",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-6",
+      "role": "SEKRETARIS 2",
+      "category": "sekretaris",
+      "name": "Anastasia Maria",
+      "imageUrl": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-7",
+      "role": "BENDAHARA 1",
+      "category": "bendahara",
+      "name": "Elizabeth Setiawati",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-8",
+      "role": "Ketua Bidang Liturgi",
+      "category": "seksi",
+      "name": "Hendrikus Suwandi",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-9",
+      "role": "Ketua Bidang Persaudaraan",
+      "category": "seksi",
+      "name": "Bernadetta Tri Utami",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-10",
+      "role": "Ketua Bidang Keluarga",
+      "category": "seksi",
+      "name": "Andreas Wijaya & Maria Natalia",
+      "imageUrl": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-11",
+      "role": "Ketua Bidang Pelayanan",
+      "category": "seksi",
+      "name": "Agustinus Bambang",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=300&q=80"
+    },
+    {
+      "id": "dpp-12",
+      "role": "Ketua Bidang Umum",
+      "category": "seksi",
+      "name": "Yoseph Setiawan",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=300&q=80"
+    }
+  ],
+  "lingkungan": [
+    {
+      "id": "l-1",
+      "name": "Lingkungan Santo Fransiskus Asisi",
+      "leader": "Yulius Sukardi",
+      "phone": "081234567890",
+      "imageUrl": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&h=150&q=80"
+    },
+    {
+      "id": "l-2",
+      "name": "Lingkungan Santa Maria Regina",
+      "leader": "Robertus Triadi",
+      "phone": "081398765432",
+      "imageUrl": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&h=150&q=80"
+    },
+    {
+      "id": "l-3",
+      "name": "Lingkungan Santo Yohanes Pembaptis",
+      "leader": "Fransiska Endah",
+      "phone": "085711223344",
+      "imageUrl": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&h=150&q=80"
+    },
+    {
+      "id": "l-4",
+      "name": "Lingkungan Santo Petrus",
+      "leader": "Albertus Sugiarto",
+      "phone": "082144556677",
+      "imageUrl": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&w=150&h=150&q=80"
+    },
+    {
+      "id": "l-5",
+      "name": "Lingkungan Santa Teresa",
+      "leader": "Agnes Widya",
+      "phone": "081933445566",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=150&h=150&q=80"
+    },
+    {
+      "id": "l-6",
+      "name": "Lingkungan Santo Yosef",
+      "leader": "Benediktus Hartono",
+      "phone": "081122334455",
+      "imageUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&h=150&q=80"
+    }
+  ],
+  "sacramentRegistrations": [],
+  "suggestions": [],
+  "dokumentasi": [
+    {
+      "id": "doc-1",
+      "title": "Minggu Paskah Pkl. 10.00 (05.04.2026)",
+      "date": "05.04.2026",
+      "googlePhotosUrl": "https://photos.app.goo.gl/mnX83sEbG9pJvrfa9",
+      "imageUrl": "https://images.unsplash.com/photo-1548625361-155deee22154?auto=format&fit=crop&w=400&q=80"
+    },
+    {
+      "id": "doc-2",
+      "title": "Sabtu Suci Pkl. 19.00 (04.04.2026)",
+      "date": "04.04.2026",
+      "googlePhotosUrl": "https://photos.app.goo.gl/pUoGvTTvWAwTqEYP6",
+      "imageUrl": "https://images.unsplash.com/photo-1447069387593-a5de0862481e?auto=format&fit=crop&w=400&q=80"
+    }
+  ]
+}
